@@ -206,6 +206,5 @@ PRODUCT_PACKAGES += \
     libqmi_client_qmux \
     libqmiservices \
     libtime_genoff \
-    shutdownlistener \
     qcrilmsgtunnel
 endif
